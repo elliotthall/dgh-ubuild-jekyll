@@ -80,5 +80,17 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2021/10/20/banner.jpg"
+  headline: DGH
+  image:
+    image: ''
+    alt_text: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
